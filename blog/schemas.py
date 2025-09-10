@@ -3,7 +3,7 @@ from typing import List
 
 
 class BlogBase(BaseModel):
-    title: str = Field(default='blog' ,min_length=7 , max_length=120, description='the title of the blog')
+    title: str = Field(default='blog', max_length=120, description='the title of the blog')
     body: str
 
 
