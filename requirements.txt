@@ -4,3 +4,4 @@ sqlalchemy
 passlib
 pyjwt
 python-multipart
+bcrypt==4.0.1
