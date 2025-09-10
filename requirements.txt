@@ -3,3 +3,4 @@ uvicorn
 sqlalchemy
 passlib
 pyjwt
+python-multipart
